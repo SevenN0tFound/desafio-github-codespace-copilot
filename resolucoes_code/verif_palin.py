@@ -1,0 +1,7 @@
+#Vamos testar se uma palavra é um palíndromo
+
+palavra = input("Digite uma palavra: ").replace(" ", "").lower()
+if palavra == palavra[::-1]:
+    print("A palavra é um palíndromo.")
+else:
+    print("A palavra não é um palíndromo.")
