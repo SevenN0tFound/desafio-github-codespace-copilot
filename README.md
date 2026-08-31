@@ -43,7 +43,7 @@ O que aprenderemos?
 - Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 - Prática na solicitação e manipulação de entrada do usuário.
 
-##6 - Verificando Palíndromos 🔄
+## 6 - Verificando Palíndromos 🔄
 Descrição: Vamos testar se uma palavra é um palíndromo?! Uma dica é: Utilize conceitos de manipulação de strings para inverter a palavra e comparar com a original.
 O que aprenderemos?
 - Manipulação de strings em Python, especialmente invertendo uma string.
