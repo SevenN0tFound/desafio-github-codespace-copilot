@@ -4,6 +4,7 @@
 texto = input("Digite uma string: ")
 quantidade = int(input("Digite um número inteiro: "))
 
-print(texto * quantidade)
+resultado = " ".join([texto] * quantidade)
+print(resultado)
 
 
